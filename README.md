@@ -2,7 +2,7 @@
 
 A full-stack Gym Tracker web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create personal dashboards and manage workout routines with a clean, responsive UI.
 website link
-https://sgym-tracker.onrender.com
+https://sgym-tracker-frontend.onrender.com
 ---
 
 ## 🧩 Features
