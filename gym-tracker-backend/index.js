@@ -13,7 +13,7 @@ app.use("/api/workouts", workoutRoutes);
 
 const PORT = process.env.PORT || 5001;
 
-mongoose.connect('mongodb+srv', {
+mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
